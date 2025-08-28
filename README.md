@@ -111,5 +111,3 @@ Use the included `sample_contacts.xml` file to test XML import with 49 sample co
 - SQL injection prevention
 - XSS protection with Blade templates
 - File upload validation for XML imports
-
-Built with modern web development best practices for interview and production use.
