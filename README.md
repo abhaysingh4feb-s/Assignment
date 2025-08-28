@@ -16,8 +16,8 @@ A modern Laravel 9 contact management system with XML bulk import/export functio
 
 1. **Clone & Install**
 ```bash
-git clone <repository-url>
-cd contact-manager
+git clone https://github.com/abhaysingh4feb-s/Assignment.git
+cd Assignment
 composer install
 ```
 
